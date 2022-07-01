@@ -1,5 +1,5 @@
 # Ryan Gardner-Cook, Phd
-## Public Policy Researcher and Anthropolgist
+#### Public Policy Researcher and Anthropolgist
 
 ## Research Bio
 ### Anthropology
