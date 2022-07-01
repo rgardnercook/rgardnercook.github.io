@@ -1,5 +1,5 @@
 ## Research Bio
-### Annthropology
+### Anthropology
 lorem ipsum
 ### Public Policy
 lorem ipsum
