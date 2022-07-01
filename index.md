@@ -1,3 +1,5 @@
+# Ryan Gardner-Cook, Phd
+## Public Policy Researcher and Anthropolgist
 
 ## Research Bio
 ### Anthropology
@@ -16,5 +18,5 @@ lorem ipsum
 - Population Vulnerability
 - Demographic Changes
 
-## Connect with me:
+## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/ryan-gardner-cook-phd/)
