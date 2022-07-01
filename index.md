@@ -16,7 +16,7 @@ lorem ipsum
 - Demographic Changes
 
 ## Connect with me:
-[linkedin]:(https://www.linkedin.com/in/ryan-gardner-cook-phd/)
+[Link](https://www.linkedin.com/in/ryan-gardner-cook-phd/)
 
 You can use the [editor on GitHub](https://github.com/rgardnercook/rgardnercook.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
